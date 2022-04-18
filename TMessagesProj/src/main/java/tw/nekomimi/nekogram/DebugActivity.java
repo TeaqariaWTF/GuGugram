@@ -30,7 +30,6 @@ public class DebugActivity extends Activity {
         enableDebugItem.setBackground(Theme.getSelectorDrawable(true));
         enableDebugItem.setTextAndCheck("Debugging features", NekoConfig.showHiddenFeature, true);
         enableDebugItem.setOnClickListener(view -> {
-            NekoConfig.toggleShowHiddenFeature();
             enableDebugItem.setChecked(NekoConfig.showHiddenFeature);
         });
         contentView.addView(enableDebugItem, LayoutHelper.createLinear(LayoutHelper.MATCH_PARENT, LayoutHelper.WRAP_CONTENT));
@@ -39,7 +38,6 @@ public class DebugActivity extends Activity {
         trustItem.setBackground(Theme.getSelectorDrawable(true));
         trustItem.setTextAndCheck("Trust", !NekoConfig.shouldNOTTrustMe, false);
         trustItem.setOnClickListener(view -> {
-            NekoConfig.toggleShouldNOTTrustMe();
             trustItem.setChecked(!NekoConfig.shouldNOTTrustMe);
         });
         contentView.addView(trustItem, LayoutHelper.createLinear(LayoutHelper.MATCH_PARENT, LayoutHelper.WRAP_CONTENT));
