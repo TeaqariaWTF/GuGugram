@@ -272,8 +272,8 @@ public class NekoConfig {
             eventType = preferences.getInt("eventType", 0);
             newYear = preferences.getBoolean("newYear", false);
             stickerSize = preferences.getFloat("stickerSize", 14.0f);
-            unlimitedFavedStickers = preferences.getBoolean("unlimitedFavedStickers2", false);
-            unlimitedPinnedDialogs = preferences.getBoolean("unlimitedPinnedDialogs2", false);
+            unlimitedFavedStickers = preferences.getBoolean("unlimitedFavedStickers", false);
+            unlimitedPinnedDialogs = preferences.getBoolean("unlimitedPinnedDialogs", false);
             translationProvider = preferences.getString("translationProvider2", isChineseUser ? Translator.PROVIDER_LINGO : Translator.PROVIDER_GOOGLE);
             disablePhotoSideAction = preferences.getBoolean("disablePhotoSideAction", true);
             openArchiveOnPull = preferences.getBoolean("openArchiveOnPull", false);
@@ -574,7 +574,7 @@ public class NekoConfig {
         unlimitedFavedStickers = !unlimitedFavedStickers;
         SharedPreferences preferences = ApplicationLoader.applicationContext.getSharedPreferences("nekoconfig", Activity.MODE_PRIVATE);
         SharedPreferences.Editor editor = preferences.edit();
-        editor.putBoolean("unlimitedFavedStickers2", unlimitedFavedStickers);
+        editor.putBoolean("unlimitedFavedStickers", unlimitedFavedStickers);
         editor.commit();
     }
 
@@ -582,7 +582,7 @@ public class NekoConfig {
         unlimitedPinnedDialogs = !unlimitedPinnedDialogs;
         SharedPreferences preferences = ApplicationLoader.applicationContext.getSharedPreferences("nekoconfig", Activity.MODE_PRIVATE);
         SharedPreferences.Editor editor = preferences.edit();
-        editor.putBoolean("unlimitedPinnedDialogs2", unlimitedPinnedDialogs);
+        editor.putBoolean("unlimitedPinnedDialogs", unlimitedPinnedDialogs);
         editor.commit();
     }
 
