@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NekoSettings">إعدادات نيكو</string>
+    <string name="IPv6">مُحاولة الاتصال عبر IPv6</string>
+    <string name="MessageMenu">اختيارات ضغطة الرسائل</string>
+    <string name="HidePhone">إخفاء رقم هاتفي</string>
+    <string name="Hide">إخفاء</string>
+    <string name="DeleteAllFromSelf">حذف الرسائل الخاصة بي</string>
+    <string name="DeleteAllFromSelfAlert">تحذير! سيؤدي هذا إلى **حذفَ جميع الرسائل منكَ** في هذه المحادثة لـ **جميع** المشاركين.</string>
+    <string name="BotLogin">تسجيل الدخول کبوت</string>
+    <string name="InvalidAccessToken">مفتاح التوكن غيرُ صالح</string>
+    <string name="IgnoreBlocked">إخفاء الرسائل من المستخدم المحظور</string>
+    <string name="Connection">اتصال</string>
+    <string name="Chat">مُحادثة</string>
+    <string name="NameOrder">ترتيبُ الاسمِ</string>
+    <string name="FirstLast">الأول ثم الآخر</string>
+    <string name="LastFirst">الآخر ثم الأول</string>
+    <string name="NoQuoteForward">توجيه دون اسم</string>
+    <string name="Repeat">كَرر</string>
+    <string name="AddToSavedMessages">حفظُ الرسالة</string>
+    <string name="CreateMention">صنع إشعار</string>
+    <string name="Prpr">إعادة تدوير</string>
+    <string name="TransparentStatusBar">شريط الحالة الشفاف</string>
+    <string name="EnableResidentNotification">إظهار إشعارٌ دائمُ</string>
+    <string name="DisableResidentNotification">تعطيل الإشعارات</string>
+    <string name="NekogramRunning">نيكوغرام قيدُ التشغيل</string>
+    <string name="EventType">مجموعة أيقونات الشريط الجانبي</string>
+    <string name="ChristmasHat">إظهار قبعة عيد الميلاد يومياً</string>
+    <string name="DependsOnDate">يعتمد علىٰ التاريخ</string>
+    <string name="Christmas">عيدُ الميلاد</string>
+    <string name="Valentine">عيد الحب</string>
+    <string name="DeleteDownloadedFile">حذف الملف المحمل</string>
+    <string name="TestBackend">اختبار الخادم التجريبي</string>
+    <string name="TestBackendOn">سيتصل هذا الحساب بالخادم التجريبي.</string>
+    <string name="TestBackendOff">سيتصل هذا الحساب بالخوادم العادية.</string>
+    <string name="HideProxySponsorChannel">إخفاء إعلانات البروكسي</string>
+    <string name="ViewHistory">عرض الرسائل</string>
+    <string name="Nya">مياو3:!</string>
+    <string name="SensitiveDisableFiltering">تعطيل حظر المحتويات الحساسة</string>
+    <string name="SensitiveAbout">عرض المحتويات الحساسة في القنوات العامة على جميع أجهزتك.</string>
+    <string name="StickerSize">حجم الملصقات</string>
+    <string name="StickerSizeDialogMessage">يا إلهي لطيف! قطة سوداء!</string>
+    <string name="StickerSizeDialogMessageReplyTo">الـرد على</string>
+    <string name="Experiment">تجريبية</string>
+    <string name="UnlimitedFavoredStickers">ملصقات مفضلة غير محدودة</string>
+    <string name="UnlimitedFavoredStickersAbout">إضافة ملصقات غير محدودة إلى المفضلة. الملصقات قد لا تتم مزامنتها مع الأجهزة الأخرى.</string>
+    <string name="MessageDetails">التفاصيل</string>
+    <string name="DeleteAccount">حذف حسابك في تيليجرام</string>
+    <string name="TranslateFailed">خطأ في خادم الترجمة</string>
+    <string name="TranslationProvider">مّوفر الترجمة</string>
+    <string name="ProviderGoogleTranslate">ترجمة جوجل</string>
+    <string name="TranslateApiUnsupported">مّوفر الترجمة الذي اخترته لا يدعم لغتك.</string>
+    <string name="ProviderLingocloud">مزود لغة السحابة</string>
+    <string name="UndoTranslate">النص الأصلي</string>
+    <string name="DisablePhotoViewerSideAction">تعطيل الانتقال بين الصور عند الضغط على حواف الشاشة</string>
+    <string name="BotToken">رمز بوت</string>
+    <string name="UnlimitedPinnedDialogs">تثبيت محادثات لا نهائي</string>
+    <string name="UnlimitedPinnedDialogsAbout">تثبيت محادثات غير محدودة بإيقاف مزامنتها.</string>
+    <string name="OpenArchiveOnPull">فتح الأرشيف عند السحب للأسفل</string>
+    <string name="HideKeyboardOnChatScroll">إخفاء لوحة المفاتيح عند التمرير في المحادثة</string>
+    <string name="ShowTabsOnForward">إظهار التبويبات عند إعادة التوجيه</string>
+    <string name="CheckAllAdministrated">إضافة ادارة</string>
+    <string name="RearVideoMessages">افتح الكاميرا الخلفية افتراضيا في رسائل الفيديو</string>
+    <string name="HideAllTab">إخفاء تبويب \"الجـمـيـع\"</string>
+    <string name="HideAllTabAbout">اضغط زرَ \"العودة\" في الشاشة الرئيسية لفتحها مجدداً.</string>
+    <string name="TabTitleType">نوع علامات التبويب</string>
+    <string name="TabTitleTypeTip">تتم مزامنة الرموز عبر السحابة بواسطة Telegram</string>
+    <string name="TabTitleTypeText">العناوين</string>
+    <string name="TabTitleTypeIcon">أيقونات</string>
+    <string name="TabTitleTypeMix">أيقونات مع عناوين</string>
+    <string name="ConfirmAVMessage">هل أنت متأكد؟</string>
+    <string name="AskBeforeCalling">اسأل قبل الاتصال</string>
+    <string name="DisableNumberRounding">تعطيل اختصارات الأرقام</string>
+    <string name="Categories">الاصناف</string>
+    <string name="OfficialChannel">القناة الرسمية</string>
+    <string name="About">حول</string>
+    <string name="IgnoreBlockedAbout">إنه ليس مخفيًا حقًا!  لا تزال الرسائل متاحة للعرض ، ولكن سيتم تحويل النص إلى Spoiler ولن يتم تنزيل الوسائط تلقائيًا.</string>
+    <string name="Donate">تبرع</string>
+    <string name="DonateAbout">تبرع للمشروع.</string>
+    <string name="TranslationAbout">ساعدنا على ترجمة نيكوجرام إلى لغتك.</string>
+    <string name="Translation">ترجمة نيكوغرام</string>
+    <string name="GooglePlay">جوجل بلاي</string>
+    <string name="ResetStickerSize">إعادة تعيين حجم ملصق</string>
+    <string name="OfficialChannelUsername">nekoupdates</string>
+    <string name="RestartAppToTakeEffect">أعد تشغيل التطبيق لرؤية التغييرات.</string>
+    <string name="DisableAppBarShadow">تعطيل ظل شريط العنوان</string>
+    <string name="MediaPreview">صورٌ مصغرة في الشاشة الرئيسية</string>
+    <string name="ProviderYandex">ترجمة Yandex</string>
+    <string name="IdType">نوعية ID المحادثة</string>
+    <string name="IdTypeAbout">طريقةُ تيليجرام هي عرض ID كما هي حرفيا، اما طريقة البوتات فتقوم بإضافة -100 فقط بداية كل ID.</string>
+    <string name="IdTypeHidden">إخفاء</string>
+    <string name="IdTypeAPI">طريقة تيليجرام</string>
+    <string name="IdTypeBOTAPI">طريقة البوت</string>
+    <string name="AutoPauseVideo">إيقاف تلقائي للفيديو</string>
+    <string name="AutoPauseVideoAbout">عند إطفاء الشاشة أو التنقل بين التطبيقات.</string>
+    <string name="DisableProximityEvents">إيقاف مستشعرات الجسم</string>
+    <string name="CustomEmojiTypeface">خطٌ مخصص للرموز التعبيرية</string>
+    <string name="MapDriftingFix">تصليح الخرائط للصين</string>
+    <string name="IncreaseVoiceMessageQuality">رسائل صوتية عالية الجودة</string>
+    <string name="VoiceEnhancements">تحسينات صوتية</string>
+    <string name="VoiceEnhancementsAbout">قمع الضوضاء وتطبيع الصوت</string>
+    <string name="DisableInstantCamera">إيقاف الكاميرا الفورية</string>
+    <string name="OpenAllLinksInInstantView">محاولة فتح جميع الروابط في العرض السريع</string>
+    <string name="DonateThankYou">شكرا لك!</string>
+    <string name="DonateEvilGoogle">سوف تأخذ جوجل ثلاثون بالمئة من تبرعك.</string>
+    <string name="formatterDay24HSec">س‌س:د‌د:ث‌ث</string>
+    <string name="formatterDay12HSec">س:د‌د:ثث و</string>
+    <string name="FormatWithSeconds">جعل الوقت مع الثواني</string>
+    <string name="JumpToBeginning">الانتقال إلى البداية</string>
+    <string name="ProviderDeepLTranslate">ترجمة الذكاء الاصطناعي</string>
+    <string name="Halloween">عيد الهلع</string>
+    <string name="CheckUpdate">التحقق من التحديثات</string>
+    <string name="LastUpdateFormatted">اخر فحص بنجاح في %1$s.</string>
+    <string name="LastUpdateDateFormatted">آخر فحص بنجاح في %1$s.</string>
+    <string name="LastUpdateRecently">تم آخر فحص بنجاح الآن.</string>
+    <string name="LastUpdateNever">لم يتم التحقق منذ التثبيت.</string>
+    <string name="CheckingUpdate">جارٍ التحقق من التحديث…</string>
+    <string name="ProviderMicrosoftTranslator">مترجم مايكـروسـوفت</string>
+    <string name="TranslationProviderShort">مزود الخدمة</string>
+    <string name="ViewSourceCode">عرض الرمز المصدري</string>
+    <string name="AvatarAsBackground">الصورة الشخصية كخلفية</string>
+    <string name="BlurAvatarBackground">تمويه الصورة الشخصية</string>
+    <string name="DarkenAvatarBackground">جعل الصورة الشخصية داكنة</string>
+    <string name="AccentAsNotificationColor">اللون المميز كلون الإشعارات</string>
+    <string name="SilenceNonContacts">إصمات المحادثات الغير مسجلة كجهات اتصال</string>
+    <string name="SilenceNonContactsAbout">الإشعارات من الناس الذين ليسوا جهات الاتصال الخاصة بك ستظهر بدون صوت. يمكنك إضافة مستخدمين إلى جهات الاتصال عن طريق ملفهم الشخصي دون الحاجة إلى معرفة رقم هاتفهم.</string>
+    <string name="SelectBetween">اختر بين</string>
+    <string name="StickerSavedHint">تم حفظ الملصق في معرض الصور</string>
+    <string name="RegistrationDate">تاريخ التسجيل</string>
+    <string name="WsDescription">اتصل بـ Telegram من خلال WebSocket عبر Cloudflare.  **يتعلم أكثر**</string>
+    <string name="WsEnableTls">تمكين TLS</string>
+    <string name="WsLocalProxy">Local proxy</string>
+    <string name="WsEnableDoh">تمكين DoH</string>
+    <string name="UpdateNekogram">تحديث نيكوغرام</string>
+    <string name="TranslationTarget">اللغة المراد الترجمة إليها</string>
+    <string name="TranslationTargetApp">لغة التطبيق</string>
+    <string name="Translator">مترجم</string>
+    <string name="ResetLanguage">إعادة تعيين اللغة</string>
+    <string name="UseGoogleTranslate">استخدام جوجل</string>
+    <string name="DeepLFormality">الشكل</string>
+    <string name="DeepLFormalityDefault">الافتراضي</string>
+    <string name="DeepLFormalityMore">المزيد</string>
+    <string name="DeepLFormalityLess">أقل</string>
+    <string name="InvalidCustomEmojiTypeface">ملف الخط غير صالح.</string>
+    <string name="AttachWebFile">ملف ويب</string>
+    <string name="WebFileInfo">إرسال ملف مع عنوان URL</string>
+    <string name="SendWebFile">إرسال ملف ويب</string>
+    <string name="SendWebFileInfo">تيليجرام سيقوم بتنزيل وإرسال الملف. 
+علمًا بأن أقصى حجم للصور 5 ميغابايت وأقصى حجم لأي نوع آخر من المحتويات 20 ميغابايت.</string>
+    <string name="SendWebFileInvalid">ملف غير صالح، تأكد من أن الملف يتوافق مع المتطلبات.</string>
+    <string name="AutoLockInstant">فوري</string>
+    <string name="RestrictionReason">سبب التقييد</string>
+    <string name="ProviderTencentTranslator">الأستاذ المترجم</string>
+    <string name="MaxRecentStickers">الحد الأقصى للملصقات الأخيرة</string>
+    <string name="ApplyEmojiFont">تطبيق خط للرموز التعبيرية</string>
+    <string name="DisableJumpToNextChannel">تعطيل \"الانتقال إلى القناة الاتية\"</string>
+    <string name="DisableGreetingSticker">تعطيل ملصق الترحيب</string>
+    <string name="DeleteAllFromSelfAdmin">مع حقوق المشرف</string>
+    <string name="OfficialSite">الموقع الرسمي</string>
+    <string name="MutualContact">جهة اتصال مشتركة</string>
+    <string name="MutualContactDescription">جهة الاتصال هذه هي جهة اتصال مشتركة.</string>
+    <string name="NoUpdateAvailable">لا تحديثات متاحة.</string>
+    <string name="InviteTextNeko">مرحبا، أنا أستخدم نيكوغرام للمحادثة. انضم إليّ! قم بتنزيله هنا: %1$s</string>
+    <string name="ShareNekogram">مشاركة نيكوغرام...</string>
+    <string name="NekogramVersion">نيكوغرام %1$s\nمبنية على تيليجرام %2$s\nمصمم من قبل %3$s</string>
+    <string name="UpdateInstalling">جار تثبيت التحديث...</string>
+    <string name="UpdateInstallingNotification">سيظهر إشعار عند اكتمال التحديث.</string>
+    <string name="UpdateInstallingRelaunch">سيتم إعادة تشغيل التطبيق عند اكتمال التحديث.</string>
+    <string name="UpdateInstalledNotification">انتهى تثبيت التحديث ، انقر لتشغيل التطبيق.</string>
+    <string name="UpdateFailedToInstall">فشل في تثبيت التحديث: %d</string>
+    <string name="QRLoginMessage">افحص QRCode باستخدام جهاز آخر لتسجيل الدخول.</string>
+    <string name="QRLoginTitle">تسجيل دخول QR</string>
+    <string name="NoTranslatorAppInstalled">ليس لديك تطبيقات يمكنها التعامل مع الترجمة، يرجى تثبيت واحد للاستمرار</string>
+    <string name="DisableVoiceMessagesAutoPlay">تعطيل التشغيل التلقائي للرسائل الصوتية</string>
+    <string name="TranslatorType">النوع</string>
+    <string name="TranslatorTypeNeko">في الرسالة</string>
+    <string name="TranslatorTypeTG">مربع حوار منبثق</string>
+    <string name="TranslatorTypeExternal">تطبيق خارجي</string>
+    <string name="CopyPhoto">نسخ الصورة</string>
+    <string name="PhotoCopied">تم نسخ الصورة إلى الحافظة</string>
+    <string name="SaveToDownloadCount_zero">حفظ %1$d ملفات للتنزيلات</string>
+    <string name="SaveToDownloadCount_one">حفظ ملف واحد للتنزيلات</string>
+    <string name="SaveToDownloadCount_two">حفظ ملفان للتنزيلات</string>
+    <string name="SaveToDownloadCount_few">حفظ %1$d ملفات للتنزيلات</string>
+    <string name="SaveToDownloadCount_many">حفظ %1$d ملفات للتنزيلات</string>
+    <string name="SaveToDownloadCount_other">حفظ الملفات للتنزيلات</string>
+    <string name="ThemesChannel">قناة السمات</string>
+    <string name="SelectAnIcon">اختر أيقونة</string>
+    <string name="AppLinkNotVerifiedMessage">لنظام Android 12 والإصدارات الأحدث ، تحتاج إلى إضافة رابط يدويًا إلى الروابط التي تم التحقق منها لفتح روابط t.me في Nekogram.</string>
+    <string name="AppLinkNotVerifiedTitle">لم يتم التحقق من روابط التطبيق</string>
+    <string name="AutoTranslate">ترجمة تلقائية</string>
+    <string name="AutoTranslateAbout">يمكنك ترجمة الرسائل المكتوبة بلغة أخرى تلقائيًا.</string>
+    <string name="CreateMono">إنشاء مساحة أحادية</string>
+    <string name="CreateMonoLanguage">لغة الكود (اختياري)</string>
+    <string name="DoubleTapAction">انقر نقرًا مزدوجًا</string>
+    <string name="BlockedUserIgnored">تجاهل المستخدم المحظور</string>
+    <string name="EditUndo">تراجع</string>
+    <string name="EditRedo">إعادة</string>
+    <string name="EditEnableMarkdown">تمكين وضع علامة</string>
+    <string name="EditDisableMarkdown">تعطيل وضع علامة</string>
+    <string name="CopyCallback">نسخ بيانات رد الاتصال</string>
+    <string name="CopyInlineQuery">نسخ الاستعلام المضمن</string>
+    <string name="CopyID">ينسخ ID</string>
+    <string name="ShowRPCError">نخب جميع أخطاء RPC</string>
+    <string name="ShowRPCErrorException">استثناءات: %s</string>
+    <string name="SoonRemovedOption">ستتم إزالة هذا الخيار التجريبي وتمكينه افتراضيًا قريبًا ، إذا كنت تواجه مشكلات مع هذا الخيار ، فيرجى ** إبلاغنا **.</string>
+    <string name="TabletMode">وضع الكمبيوتر اللوحي</string>
+    <string name="TabletModeAuto">وضع الكمبيوتر اللوحي تلقائي</string>
+    <string name="DeleteAllFromSelfDone">كل رسائلك حُذفت</string>
+    <string name="UnknownNekoSettingsOption">لا يوجد خِيار لإعدادات نكو من هذا القبيل.</string>
+    <string name="ProviderYouDaoTranslate">مترجم يودوا 🇨🇳</string>
+    <string name="ProviderBaiduTranslate">تَرْجَمَة بادو</string>
+    <string name="ProviderSogouTranslate">مترجم سجوي 🇨🇳</string>
+    <string name="Translating">جار التَّرْجَمَة</string>
+    <string name="Translated">تمت التَّرْجَمَة</string>
+    <string name="BrokenMLKit">الخِيار غير متاح</string>
+    <string name="BrokenMLKitDetail">معرف لغة Google ميل كيت معطل بطريقة ما على هذا الجهاز.</string>
+    <string name="PasscodeNeeded">يجب عليك تفعيل قُفْل رمز المرور أولاً</string>
+    <string name="PasscodeNeko">رمز الدخول</string>
+    <string name="PasscodeShowInSettings">إظهار رمز المرور في الإعدادات ناكو</string>
+    <string name="PasscodeShowInSettingsAbout">بعد التخفي، يمكنك **فقط** فتح هذه الصفحة عن طريق الرابط:</string>
+    <string name="PasscodeSet">تعيين رمز المرور</string>
+    <string name="PasscodeEdit">تغيير رمز المرور</string>
+    <string name="PasscodeRemove">إزالة رمز المرور</string>
+    <string name="PasscodeHideAccount">إخفاء الحساب</string>
+    <string name="PasscodeAllowPanic">تسجيل الخروج مع رمز الطوارئ</string>
+    <string name="PasscodeAbout">ِتعيين رموز مرور مختلفة لكل حساب ، و تغيير بينهم عن طريق إدخال رمز المرور المقابل.</string>
+    <string name="PasscodePanicCode">رمز الطوارئ</string>
+    <string name="PasscodePanicCodeSet">تعيين رمز الطوارئ</string>
+    <string name="PasscodePanicCodeEdit">تغيير رمز الطوارئ</string>
+    <string name="PasscodePanicCodeRemove">إزالة رمز الطوارئ</string>
+    <string name="PasscodePanicCodeRemoveConfirmMessage">هل أنت متيقِّن أنك تريد إزالة رمز الطوارئ؟</string>
+    <string name="PasscodeRemoveConfirmMessage">هل أنت متيقِّن أنك تريد إزالة كلمة المرور لهذا الحساب؟</string>
+    <string name="PasscodePanicCodeAbout">استخدم رمز الطوارئ لتسجيل الخروج من الحسابات إذا حدث خطأ ما.</string>
+    <string name="HideTimeOnSticker">إخفاء الوقت على الملصقات</string>
+    <string name="TranslatorShowOriginal">مع النص الأصلي</string>
+    <string name="DatacenterStatusAbout">تحقق من حالة مراكز البيانات **في تيليجرام**.</string>
+    <string name="DatacenterStatus">حالة مركز البيانات</string>
+    <string name="Markdown">مارك داون</string>
+    <string name="MarkdownEnableByDefault">تفعيل بشكل افتراضي</string>
+    <string name="MarkdownParser">محلل</string>
+    <string name="MarkdownParseLinks">تحليل الروابط</string>
+    <string name="MarkdownAbout">تعديل النص في الرسائل باستخدام الـ الترميز: ^1**بالنبط الثقيل**^1، ^2__مائل__^2و ^3و~~يتوسطه خط~~^3و ^4`أحادية الفضاء`^4و ^5||المفسد||^5و ^6نص^7رابط^8.</string>
+    <string name="MarkdownAbout2">تعديل النص في الرسائل باستخدام الـ الترميز: ^1**بالنبط الثقيل**^1، ^2__مائل__^2و ^3و~~يتوسطه خط~~^3و ^4`أحادية الفضاء`^4و ^5||المفسد||^5و نص رابط.</string>
+    <string name="AppIconOldSchool">القديمة</string>
+    <string name="AppIconMerio">ميريو</string>
+    <string name="AppIconRainbow">قوس قزح</string>
+    <string name="AppIconMusheen">مشهين</string>
+    <string name="AppIconSpace">فضاء</string>
+    <string name="AppIconCloud">سحب</string>
+    <string name="AppIconNeon">نيون</string>
+    <string name="AppIconMaterial">تصميم المواد</string>
+    <!-- Accessibility -->
+    <string name="AccessibilitySettings">إمكانية الوصول</string>
+</resources>
